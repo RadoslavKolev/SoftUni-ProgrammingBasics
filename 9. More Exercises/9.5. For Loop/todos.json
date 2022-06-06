@@ -1,0 +1,17 @@
+[
+  {
+    "name": "John Doe",
+    "id": 1,
+    "city": "Varna"
+  },
+  {
+    "name": "John Smith",
+    "id": 2,
+    "city": "Plovdiv"
+  },
+  {
+    "name": "Sarah Doe",
+    "id": 3,
+    "city": "Sofia"
+  }
+]
