@@ -1,4 +1,4 @@
-# Programming Basics - SoftUni
+# Programming Basics JavaScript - SoftUni
 
 This repository contains the Programming basics course from SoftUni.
 
